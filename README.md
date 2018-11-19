@@ -39,6 +39,8 @@ I - предпочтения пользователя
 
 Лабораторная 5
 
+[Диаграммы](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.rsf)
+
 Лабораторная 6
 
 Лабораторная 7
