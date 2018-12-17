@@ -14,7 +14,7 @@
 
 [Общий файл с работой по 2 и 3 лабораторной](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B02.rsf)
 
-Лабораторная 4
+Лабораторная 4, Лабораторная 5
 
 1. Процесс подбора путевок на отдых.
 
@@ -32,10 +32,10 @@ I - предпочтения пользователя
 
 3. Автоматизированная система по подбору путевок.
 
-Лабораторная 5
-
-[Диаграммы](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.rsf)
+[Диаграммы для курсовой работы](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.rsf)
 
 Лабораторная 6
 
-Лабораторная 7
+Курсовая работа
+
+
