@@ -3,6 +3,8 @@
 студент группы ИДБ-15-14 Демидова М.М.
 Лабораторная 1
 
+[Диаграмма IDEF0](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+
 Лабораторная 2
 
 Лабораторная 3
