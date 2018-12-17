@@ -5,7 +5,13 @@
 
 [Диаграмма IDEF0](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
 
+[Диаграмма UML](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+
+[Диаграмма](https://github.com/MariyaDemidova/MariyaDemidova.github.io/blob/master/UML.PNG)
+
 Лабораторная 2
+
+
 
 Лабораторная 3
 
